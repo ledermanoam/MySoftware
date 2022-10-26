@@ -1,3 +1,6 @@
 print("code is fun")
-def click():
-    print("Click")
+
+def welcome():
+    print("New Screen")
+
+
